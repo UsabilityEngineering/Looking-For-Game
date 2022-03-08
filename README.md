@@ -1,8 +1,6 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# Looking For Game
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project's vision!!!
+Looking For Game is a web application that allows users to find or create an RPG Tabletop Game Experience with their desired customizability options.
 
 ## UX Team Members
 
