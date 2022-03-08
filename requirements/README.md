@@ -14,7 +14,7 @@
 [Persona 3, Inexperienced Player](https://www.example.com)
 
 ## Scenarios
-[Scenario 1, Game Master](https://www.example.com)
+[Scenario 1, Game Master](/requirements/scenarios/game_master.md)
 
 [Scenario 2, Experienced Player](https://www.example.com)
 
