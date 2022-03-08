@@ -27,6 +27,6 @@ The second method used for data gathering was holding a focus group. We had some
 ## Supplementary Materials
 [Survey Questions](/requirements/supplementary_materials/Looking-For-Game%20User%20Survey%20-%20Google%20Forms.pdf)
 
-[Survey Response Data](https://www.example.com)
+[Survey Response Data](https://docs.google.com/spreadsheets/d/1aKAC8NUQ0DGiXFaB95-Fn3XPmRlqDRJ0v2v-P5MP2EA/edit?resourcekey#gid=1438778567)
 
-[Focus Group Questions](https://www.example.com)
+[Focus Group Questions](/requirements/supplementary_materials/Focus%20group%20questions.pdf)
