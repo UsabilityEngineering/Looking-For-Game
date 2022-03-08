@@ -7,7 +7,7 @@
 ## Conclusion
 
 ## Personas
-[Persona 1, Game Master](/personas/GM.md)
+[Persona 1, Game Master](/requirements/personas/GM.md)
 
 [Persona 2, Experienced Player](https://www.example.com)
 
