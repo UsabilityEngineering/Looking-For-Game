@@ -8,7 +8,8 @@ The second method used for data gathering was holding a focus group. We had some
 ## Findings
 From the data gathered in the survey we put out, we found some interesting data, although with a few caveats. Every response has listed Dungeons and Dragons 5th Edition as a Tabletop Roleplaying Game (TTRPG) that they have previously played. This data, however, is not overly surprising, as Dungeons and Dragons is by a wide margin the most popular TTRPG on the market, and many of the survey responses came from people who were in the same group for playing said game. Notably, a sizeable amount of responses, about a third of responses in the section, have listed a custom TTRPG, and over half of the responses have listed games outside of Dungeons and Dragons.
 
-![Online/In-Person Chart]()
+![Online/In-Person Chart](https://user-images.githubusercontent.com/72906410/157754992-67ac6d67-3d99-494b-b96c-03094985002f.png)
+
 
 ## Conclusion
 
