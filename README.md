@@ -4,8 +4,8 @@ Looking For Game is a web application that allows users to find or create an RPG
 
 ## UX Team Members
 
-* **Spencer Leff (https://github.com/UsabilityEngineering/ux-portfolio-spencerleff)** - Creation of questionnaire, executive summary, introduction, methods, caveats, personas & scenarios.
-* **Tai Masuda (https://github.com/UsabilityEngineering/ux-portfolio-tmasuda14)** - Creation of questionnaire, executive summary, findings, personas & scenarios, supplementary materials.
+* **Spencer Leff (https://usabilityengineering.github.io/ux-portfolio-spencerleff/)** - Creation of questionnaire, executive summary, introduction, methods, caveats, personas & scenarios.
+* **Tai Masuda (https://usabilityengineering.github.io/ux-portfolio-tmasuda14/)** - Creation of questionnaire, executive summary, findings, personas & scenarios, supplementary materials.
 * **[Jonathan Phan](https://github.com/UsabilityEngineering/ux-portfolio-Jonathan-phan-804)** - Creation of focus group, host of focus group, executive summary, conclusions, personas & scenarios.
 
 # User-Centered Design Artifacts
