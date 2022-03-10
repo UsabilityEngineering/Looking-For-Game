@@ -9,6 +9,11 @@ The second method used for data gathering was holding a focus group. We had some
 From the data gathered in the survey we put out, we found some interesting data, although with a few caveats. Every response has listed Dungeons and Dragons 5th Edition as a Tabletop Roleplaying Game (TTRPG) that they have previously played. This data, however, is not overly surprising, as Dungeons and Dragons is by a wide margin the most popular TTRPG on the market, and many of the survey responses came from people who were in the same group for playing said game. Notably, a sizeable amount of responses, about a third of responses in the section, have listed a custom TTRPG, and over half of the responses have listed games outside of Dungeons and Dragons.
 
 ![Online/In-Person Chart](https://user-images.githubusercontent.com/72906410/157754992-67ac6d67-3d99-494b-b96c-03094985002f.png)
+From the chart above, half of the respondents preferred online play, while 70% either preferred online play or had no strong preference. As we are planning to keep the service for online play, at least at the start, this shows a sufficient amount of people willing to play online.
+
+![GM/PC Split Chart](https://user-images.githubusercontent.com/72906410/157755621-6c37d424-22e1-4195-a554-d10530d703c6.png)
+Of the people surveyed, a vast majority of people said that they typically were player characters, as opposed to game masters. The approximate ratio of game master to player in the survey was 1:5.5. But, when asked about what peoples' ideal group size were, a large majority of responses were between 4-5 players. If this trend holds for a larger group, then there will be more players than might be able to find a game, assuming each game master only hosts one game on the site, which, while not guaranteed, is a potential point of concern.
+
 
 
 ## Conclusion
