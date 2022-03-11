@@ -17,9 +17,11 @@ From the chart above, half of the respondents preferred online play, while 70% e
 Of the people surveyed, a vast majority of people said that they typically were player characters, as opposed to game masters. The approximate ratio of game master to player in the survey was 1:5.5. But, when asked about what peoples' ideal group size were, a large majority of responses were between 4-5 players. If this trend holds for a larger group, then there will be more players than might be able to find a game, assuming each game master only hosts one game on the site, which, while not guaranteed, is a potential point of concern.
 
 Onto the specific sections for game masters. Everyone who responded as a game master had listed experience level very highly, both responding with a 5 on the Likert scale when asked on how important they think it would be. The other responses were somewhat more varied, and shown in the graph below. Also, both of them found finding and maintaining a fun group difficult, and could benefit from a service that could improve that experience. In terms of administration options, there was data collected but the information found in the focus group was better, as it was more open ended.
+
 ![GM preferences](https://user-images.githubusercontent.com/72906410/157797269-5c71dcbc-d5f6-43ec-a578-c2a9c2b0cb50.png)
 
 From the player section, there is a lot more variance in the responses. 75% of players wanted session lengths to be 3 hours or longer. Most had not used any group finding methods other than friends and acquantances, although a few others were mentioned, such as Roll20 and Discord, although both of these only once, and by the same person. Customization options here were more varied than with the game masters, although with a much larger sample size, seen in the graph below.
+
 ![PC preferences](https://user-images.githubusercontent.com/72906410/157797872-fab07112-d147-4953-ae63-8327c1a7be9d.png)
 
 
