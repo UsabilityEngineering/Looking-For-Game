@@ -5,7 +5,9 @@
 ### Greg ###
 
 34 year old male from Hell, Michigan.
+
 District Manager for Wendy's
+
 B.A. in Business Management
 
 Most week days, Greg is on the road travelling to various Wendy's chain locations. His job is to assist managers and provide direction to improve business and customer retention. He is a loving father of one, and devoted husband to his wife, Rose. Most of his friends have been made through work, and it is difficult for him to let his guard down while socializing with employees. He only has two secrets he keeps from his friends and employees: he loves Dungeons and Dragons, and he prefers to cook his own burgers at home.
