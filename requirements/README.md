@@ -20,9 +20,10 @@ Onto the specific sections for game masters. Everyone who responded as a game ma
 
 ![GM preferences](https://user-images.githubusercontent.com/72906410/157797269-5c71dcbc-d5f6-43ec-a578-c2a9c2b0cb50.png)
 
-From the player section, there is a lot more variance in the responses. 75% of players wanted session lengths to be 3 hours or longer. Most had not used any group finding methods other than friends and acquantances, although a few others were mentioned, such as Roll20 and Discord, although both of these only once, and by the same person. Customization options here were more varied than with the game masters, although with a much larger sample size, seen in the graph below.
+From the player section, there is a lot more variance in the responses. 75% of players wanted session lengths to be 3 hours or longer. Most had not used any group finding methods other than friends and acquantances, although a few others were mentioned, such as Roll20 and Discord, although both of these only once, and by the same person. Customization options here were more varied than with the game masters, although with a much larger sample size, seen in the graph below. Finally, all players are either favorable or neutral towards a group finding service.
 
 ![PC preferences](https://user-images.githubusercontent.com/72906410/157797872-fab07112-d147-4953-ae63-8327c1a7be9d.png)
+
 
 
 ## Conclusion
