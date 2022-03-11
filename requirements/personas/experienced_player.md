@@ -13,7 +13,6 @@ Robert loves his career, as well as his daily routine.  As a graphic designer, h
 Since that day, he looks forward to his Saturday sessions every single week, making fast friends with everyone there.  After years of amazing times, Robert has been able to find an outlet for socialization that works well with his work schedule.  However, with the COVID-19 pandemic, the group has been put on hold, and he still would like to meet new people and participate in a DnD campaign in some fashion.
 
 Goals:
-
 Find an online alternative to participate in Tabletop RPG games such as Dungeons & Dragons
 
 Make new friends that allow him to be himself while away from work at home
