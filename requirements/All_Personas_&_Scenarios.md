@@ -1,6 +1,6 @@
 ## Experienced Player ##
 
-![Robert - Graphic Designer](robert.jpg)
+![Robert - Graphic Designer](personas/robert.jpg)
 
 ### Robert ###
 
