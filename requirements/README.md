@@ -36,7 +36,7 @@ Some problems that could possibly stem due to using the focus group method for d
 ## Conclusion
 
 ## Personas
-[Persona 1, Game Master](personas/GM.md)
+[Persona 1, Game Master](/requirements/personas/GM.md)
 
 [Persona 2, Experienced Player](personas/experienced_player.md)
 
