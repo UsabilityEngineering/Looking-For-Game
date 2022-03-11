@@ -24,7 +24,12 @@ From the player section, there is a lot more variance in the responses. 75% of p
 
 ![PC preferences](https://user-images.githubusercontent.com/72906410/157797872-fab07112-d147-4953-ae63-8327c1a7be9d.png)
 
+## Caveats
+In general, we surveyed people mostly from the course, as well as those who are general savvy with technology.  Additionally, those we surveyed were almost completely within a similar age group (about college age), which will have somewhat of an influence on what they believe is most important in a Tabletop RPG campaign group finding product.  If we were to include some individuals of a different age group, who might have children of their own, their expectations and wishes may be different than our data suggests.
 
+The data that we recieved from the questionnaire may have some caveats, such as respondents perhaps not taking the time to provide completely honest/accurate answers.  The amount of people that took the survey could prove to be an issue too, as only 11 people took the survey. As mentioned in the paragraph above, the demographic that took the survey could create bias in the data moreso in this format than our focus group.
+
+Some problems that could possibly stem due to using the focus group method for data gathering is groupthink.  While in a focus group, people are easily susceptible to just agree with the first opinion that is expressed, which could influenced the data to some degree.  Additionally, the focus group that we held involved people that already had familiarity with one another, which could further add to any biases found within our data.
 
 ## Conclusion
 
