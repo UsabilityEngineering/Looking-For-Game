@@ -10,21 +10,13 @@ Looking For Game is a web application that allows users to find or create an RPG
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](requirements/All_Personas_&_Scenarios.md) - Coming soon!
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
 # Phase 1: Requirements Gathering
 
 **Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
-
 
 Survey (n=x)
 * **18.2%** of responders typically take the role of **Game Master**
