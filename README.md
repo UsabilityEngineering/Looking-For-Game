@@ -18,7 +18,7 @@ Looking For Game is a web application that allows users to find or create an RPG
 
 **Executive Summary**
 
-Survey (n=x)
+Survey (n=11)
 * **18.2%** of responders typically take the role of **Game Master**
 * **50%** of players prefer an **online** environment
 * A player's **experience level** and **name** were considered the most important to include
