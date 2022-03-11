@@ -1,1 +1,3 @@
+## Game Master Scenario ##
 
+Kyle just finished sending his rounds of applications to graduate programs, and now finds himself with a lot of time on his hands. He recalls his time at the RPG club, and starts asking around to see who is available for a game. Unfortunately, some of his players have conflicting schedules, and he was only able to get 2 people willing to commit to a game, as long as it was online. Kyle prefers the group dynamic of 3-4 people, but none of the other players know anybody who was interested in getting started with Dungeons and Dragons. Kyle then turns to the internet to fill in the open positions.
