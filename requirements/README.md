@@ -38,16 +38,16 @@ Some problems that could possibly stem due to using the focus group method for d
 ## Personas
 [Persona 1, Game Master](personas/GM.md)
 
-[Persona 2, Experienced Player](requirements/personas/experienced_player.md)
+[Persona 2, Experienced Player](personas/experienced_player.md)
 
-[Persona 3, Inexperienced Player](requirements/personas/inexperienced_player.md)
+[Persona 3, Inexperienced Player](personas/inexperienced_player.md)
 
 ## Scenarios
-[Scenario 1, Game Master](requirements/scenarios/game_master.md)
+[Scenario 1, Game Master](scenarios/game_master.md)
 
-[Scenario 2, Experienced Player](requirements/scenarios/experienced_player.md)
+[Scenario 2, Experienced Player](scenarios/experienced_player.md)
 
-[Scenario 3, Inexperienced Player](requirements/scenarios/inexperienced_player.md)
+[Scenario 3, Inexperienced Player](scenarios/inexperienced_player.md)
 
 
 ## Supplementary Materials
