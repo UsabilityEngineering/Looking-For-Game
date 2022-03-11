@@ -34,15 +34,14 @@ Survey (n=x)
 * **55.6%** of responders would value a service for player matching
 * The most common games listed are:
    * **D&D** (n=8)
-   * **Wayward Swords** (n=2)
+   * **Custom** (n=3)
    * **Blades in the Dark** (n=2)
    * **Lancer** (n=2)
 
-
-Focus Group (n=x)
-* ...
-* ...
-* ...
+Focus Group (n=5)
+* All members of the group seemed very receptive to finding new groups
+* There were many features that they found very important, and for those that had experiences with other groupfinding methods they were missing, and led to unsatisfactory experiences
+* In the focus group it was unanimously requested to have some kind of report system, which was something we had overlooked
 
 [Full phase 1 report](requirements/)
 
