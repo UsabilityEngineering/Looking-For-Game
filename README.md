@@ -39,9 +39,14 @@ Survey (n=x)
    * **Lancer** (n=2)
 
 Focus Group (n=5)
-* All members of the group seemed very receptive to finding new groups
-* There were many features that they found very important, and for those that had experiences with other groupfinding methods they were missing, and led to unsatisfactory experiences
-* In the focus group it was unanimously requested to have some kind of report system, which was something we had overlooked
+* **100%** of the group was very receptive to using our product as a possible Tabletop RPG campaign-finding service.
+* Due to previous experiences, they brought up several features that were **must-haves** when creating/joining a group:
+   * example 1
+   * example 2
+   * example 3
+   * example 4
+* In the focus group it was unanimously agreed that a player reporting system was vital to having an enjoyable experience,
+  so shifting our focus towards player safety/security is a must going forward.
 
 [Full phase 1 report](requirements/)
 
