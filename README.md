@@ -24,6 +24,34 @@ Looking For Game is a web application that allows users to find or create an RPG
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
+
+
+Survey (n=x)
+* **18.2%** of responders typically take the role of **Game Master**
+* **50%** of players prefer an **online** environment
+* A player's **experience level** and **name** were considered the most important to include
+* All Game Master responders consider **group creation and consistency** as **high difficulty** tasks (Likert scale 4/5 or higher)
+* All Game Master responders are willing to dedicate 3 or more hours per week creating campaigns
+* The most important customization options request by Game Masters are:
+   * Experience Level
+   * Age of Participants
+   * Meeting Frequency
+   * Campaign Preferences
+* **62.5%** of players are willing to spend 3 to 4 hours per session
+* **100%** of players request features for reporting and blocking users
+* **55.6%** of responders would value a service for player matching
+* The most common games listed are:
+   * **D&D** (n=8)
+   * **Wayward Swords** (n=2)
+   * **Blades in the Dark** (n=2)
+   * **Lancer** (n=2)
+
+
+Focus Group (n=x)
+* ...
+* ...
+* ...
+
 [Full phase 1 report](requirements/)
 
 # Phase 2: Interaction Design
