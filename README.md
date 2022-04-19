@@ -41,7 +41,7 @@ Survey (n=11)
 Focus Group (n=5)
 * **100%** of the group was very receptive to using our product as a possible Tabletop RPG campaign-finding service.
 * Due to previous experiences, they brought up several features that were **must-haves** when creating/joining a group:
-   * Availability
+   * Availability (by **far** the most requested feature)
    * Beginner Friendliness
    * Game system and blurb that gives an idea of the world the campaign is taking place in
    * Trigger Warnings
