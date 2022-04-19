@@ -41,10 +41,10 @@ Survey (n=11)
 Focus Group (n=5)
 * **100%** of the group was very receptive to using our product as a possible Tabletop RPG campaign-finding service.
 * Due to previous experiences, they brought up several features that were **must-haves** when creating/joining a group:
-   * example 1
-   * example 2
-   * example 3
-   * example 4
+   * Availability
+   * Beginner Friendliness
+   * Game system and blurb that gives an idea of the world the campaign is taking place in
+   * Trigger Warnings
 * In the focus group it was unanimously agreed that a player reporting system was vital to having an enjoyable experience,
   so shifting our focus towards player safety/security is a must going forward.
 
