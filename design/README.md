@@ -7,5 +7,8 @@ One of the **most** requested features in both the focus group and interviews wa
 
 <p float="right">
   text text text text
+  Text
+  Text
+  TExt
   <img src="supplementary_materials/Home_Page.png" width="400" />
 </p>
