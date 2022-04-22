@@ -7,6 +7,7 @@ One of the **most** requested features in both the focus group and interviews wa
  
 # **Home Page**
 <img src="supplementary_materials/Home_Page.png" alt="drawing" width="400"/>
+
 * A
 
 * B
