@@ -38,26 +38,26 @@ One of the **most** requested features in both the focus group and interviews wa
 # **Profile Page**
 <img src="supplementary_materials/Profile.png" alt="drawing" width="400"/>
 
-* A
+* Our mindset for the profile page was to create a "hub" of sorts for users to perform actions related to their game groups.
 
-* B
+* A GM should be able to quickly access the requests list for any of their created groups that have not completely filled with players yet. Any player that has been accepted into a group should also be able to quickly access the view for that group ("Go to group" button). There, they can see the game schedule and chat with other members.
 
-* C
+* We took a similar approach to editing a user's profile information, taking already existing conventions and applying them here to create a more comfortable environment for users.
 
 # **Group View Page**
 <img src="supplementary_materials/Group_View.png" alt="drawing" width="400"/>
 
-* A
+* In our Group View Page, we had two major goals:
 
-* B
+* Firstly, we want the schedule that the Game Master set during the Create Group stage of the process to appear again here, so that players in the group can access it at any time.  The GM should also be able to make changes to this schedule when necessary.
 
-* C
+* Secondly, the group members should be able to chat with one another to discuss anything related to the group. This communication should benefit the experience overall and allow for any clarifications. Additionally, this will prevent players from being forced to disclose information about one another, such as their phone number, which could lead to player safety issues.
 
 # **Requests Page**
 <img src="supplementary_materials/Requests.png" alt="drawing" width="400"/>
 
-* A
+* When a user requests to join a campaign on the "find groups" page, the Game Master of that particular group will be sent a request that can be found on this page.
 
-* B
+* After hearing feedback from our focus group, we realized the importance of allowing GM's to know as much useful information as possible about these possible incoming members. Not only should things such as Username, experience level, and age be available, but their user rating as well. The user rating system would allow GM's to quickly find quality players that wish to join their campaign.
 
-* C
+* GM's can either reject or accept each group join request by simply clicking the reject/accept button respectively.
