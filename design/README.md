@@ -5,7 +5,6 @@ From the personas and scenarios, many of the personas we came up with were busy,
 
 One of the **most** requested features in both the focus group and interviews was to have a system in place to track availability...
 
-<p float="right">
-  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  
+<p float="center"> 
   <img src="supplementary_materials/Home_Page.png" width="400" />
 </p>
