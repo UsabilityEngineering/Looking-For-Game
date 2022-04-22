@@ -11,7 +11,7 @@ Looking For Game is a web application that allows users to find or create an RPG
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](requirements/All_Personas_&_Scenarios.md)
-* [Wireframes](design/LFG_Wireframes.pdf)
+* [Wireframes](design/supplementary_materials/LFG_Wireframes.pdf)
 * [Prototype](https://xd.adobe.com/view/292434ef-a51d-4ebe-a466-d0ede5ff7404-7c77/?fullscreen&hints=off)
 
 # Phase 1: Requirements Gathering
