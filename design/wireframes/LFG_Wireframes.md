@@ -1,1 +1,7 @@
 ![Home Page](../supplementary_materials/Home_Page.png)
+![Find Group Page](../supplementary_materials/Find_Group.png)
+![Create Group Page](../supplementary_materials/Create_Group.png)
+![About Us Page](../supplementary_materials/About_Us.png)
+![Profile Page](../supplementary_materials/Profile.png)
+![Group View Page](../supplementary_materials/Group_View.png)
+![Requests Page](../supplementary_materials/Requests.png)
