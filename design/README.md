@@ -16,36 +16,54 @@ One of the **most** requested features in both the focus group and interviews wa
 
 # **Find Group Page**
 <img src="supplementary_materials/Find_Group.png" alt="drawing" width="400"/>
+
 * A
+
 * B
+
 * C
 
 # **Create Group Page**
 <img src="supplementary_materials/Create_Group.png" alt="drawing" width="400"/>
+
 * A
+
 * B
+
 * C
 
 # **About Us Page**
 <img src="supplementary_materials/About_Us.png" alt="drawing" width="400"/>
+
 * A
+
 * B
+
 * C
 
 # **Profile Page**
 <img src="supplementary_materials/Profile.png" alt="drawing" width="400"/>
+
 * A
+
 * B
+
 * C
 
 # **Group View Page**
 <img src="supplementary_materials/Group_View.png" alt="drawing" width="400"/>
+
 * A
+
 * B
+
 * C
 
 # **Requests Page**
 <img src="supplementary_materials/Requests.png" alt="drawing" width="400"/>
+
 * A
+
 * B
+
 * C
