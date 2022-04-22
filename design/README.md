@@ -8,9 +8,9 @@ One of the **most** requested features in both the focus group and interviews wa
 # **Home Page**
 <img src="supplementary_materials/Home_Page.png" alt="drawing" width="400"/>
 
-* A
+* Our goal with the home page was to create a simplistic and clean experience for a user with any feasible goal can get to their desired location efficiently.
 
-* B
+* With that in mind, we created the two very visible "Player" and "Game Master" buttons, which will subsequently take you to the find group and create group pages.
 
 * C
 
