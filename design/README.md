@@ -6,5 +6,4 @@ From the personas and scenarios, many of the personas we came up with were busy,
 One of the **most** requested features in both the focus group and interviews was to have a system in place to track availability...
 
 Testing text 1231231231231231231231231
-
 <img src="supplementary_materials/Home_Page.png" alt="Home Page" width="400" float="right"/>
