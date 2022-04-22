@@ -5,6 +5,5 @@ From the personas and scenarios, many of the personas we came up with were busy,
 
 One of the **most** requested features in both the focus group and interviews was to have a system in place to track availability...
  
-**Home Page**
-![Home Page](supplementary_materials/Home_Page.png){width="400"}
-<img src="supplementary_materials/Home_Page.png" width="400" />
+<center>**Home Page**</center>
+![Home Page](supplementary_materials/Home_Page.png) { width: "400px;" }
