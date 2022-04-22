@@ -7,4 +7,4 @@ One of the **most** requested features in both the focus group and interviews wa
 
 Testing text 1231231231231231231231231
 
-<img src="supplementary_materials/Home_Page.png" alt="Home Page" width="400" float:"right"/>
+<img src="supplementary_materials/Home_Page.png" alt="Home Page" width="400" float="right"/>
