@@ -7,3 +7,9 @@ One of the **most** requested features in both the focus group and interviews wa
 
 <img src="supplementary_materials/Home_Page.png" alt="Home Page" width="400" float="left"/>
 Testing text 1231231231231231231231231
+
+<p float="right">
+  <img src="supplementary_materials/Home_Page.png" width="100" />
+  <img src="supplementary_materials/Home_Page.png" width="100" /> 
+  <img src="supplementary_materials/Home_Page.png" width="100" />
+</p>
