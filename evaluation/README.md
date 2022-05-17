@@ -4,9 +4,9 @@
 
 Participants were asked to complete several tasks relating to group creation and group finding while the interface was being evaluated.
 
-Through heuristic evaluation, it was determined that the interface had aesthetic integrity, simplicity, and predictability.  As the tasks were being performed, users reported an overall ease of navigation. Quickness and simplicity of group creation was the most common remark. The consistent format in which the group data is displayed aided in participants with overall task precision. One area for future improvement is with linguistic clarity, where several participants with a “beginner” level of experience reported uncertainty with some common gaming terms (specifically “campaign” and “game master”).
+Through heuristic evaluation, it was determined that the interface had **aesthetic integrity, simplicity, and predictability**.  As the tasks were being performed, users reported an overall ease of navigation. Quickness and simplicity of group creation was the most common remark. The **consistent** format in which the group data is displayed aided in participants with overall task **precision**. 
 
-During cognitive walkthroughs, participants were tasked with responsibilities of both a host (game master) and player. 100% of participants completed all of their respective tasks without backtracking. The simplicity was recognized by several participants who liked the direct linkage between the landing page and “create group” form. It was noted that a few participants struggled with finding and joining a group simply because the scroll feature was not prominently displayed. Adding signifiers to notify users of content below-the-fold would reduce this difficulty and increase efficiency. Since all participants completed tasks with no backtracking, future tasks may be created to fully examine error tolerance.
+During cognitive walkthroughs, participants were tasked with responsibilities of both a host (game master) and player. **100% of participants** completed all of their respective tasks **without backtracking**. The simplicity was recognized by several participants who liked the direct linkage between the landing page and “create group” form. 
 
 ## Participant Study Protocol
 
@@ -42,6 +42,10 @@ Our formative assessment approach allows for feedback and design reiteration, wi
 ## Data Interpretation
 
 Data goes here...
+
+One area for future improvement is with **linguistic clarity**, where several participants with a “beginner” level of experience reported uncertainty with some common gaming terms (specifically “campaign” and “game master”).
+
+It was noted that a few participants struggled with finding and joining a group simply because the scroll feature was not prominently displayed. Adding **signifiers** to notify users of content below-the-fold would reduce this difficulty and increase **efficiency**. Since all participants completed tasks with no backtracking, future tasks may be created to fully examine **error tolerance**.
 
 ## Data Collection
 
