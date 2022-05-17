@@ -68,9 +68,16 @@ Focus Group (n=5)
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Participants were provided a prototype and requested to complete two tasks.
+* Tasks involved creating and requesting to join a group.
+    - Each task had several criteria requested to be met (experience level, group size, age limit, etc.).
+* **80%** of participants completed all their assigned tasks while meeting full criteria.
+* **100%** of participants completed their tasks without requiring backtracking.
+* Users reported overall ease of navigation.
+    - **Clean and simplistic** layout aided with task completion.
+    - Users with no previous group finding experience felt **comfortable** progressing through tasks.
+    - **Descriptive** navigation bar assisted with exploration.
+* The home page containing the "available groups" list was the most-liked feature.
+    - Users believe the feature is straightforward and accessible.
 
 [Full phase 3 report](evaluation/)
