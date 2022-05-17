@@ -59,9 +59,9 @@ Focus Group (n=5)
     - Wireframes were created based off both the generated **personas and scenarios**, as well as data acquired from the **survey** and **focus group**.
 * Addressed most of the most critical concerns brought up by the focus group (scheduling, beginner friendliness, etc.).
 * Wireframe Creation
-    - * Created a system that is simple enough for a new user to navigate, as well as more customizability options for more experienced players to find more tailored experiences.
-    -Created a hub where a user can view all of their existing games, as well as manage each individual group.
-    -Formulated a page to set individual group settings to match the focus group's requirements.
+    - Created a system that is simple enough for a new user to navigate, as well as more customizability options for more experienced players to find more tailored experiences.
+    - Created a hub where a user can view all of their existing games, as well as manage each individual group.
+    - Formulated a page to set individual group settings to match the focus group's requirements.
 
 [Full phase 2 report](design/)
 
