@@ -79,5 +79,10 @@ Focus Group (n=5)
     - **Descriptive** navigation bar assisted with exploration.
 * The home page containing the "available groups" list was the most-liked feature.
     - Users believe the feature is straightforward and accessible.
-
+* The most requested new features:
+    - More detailed and personalized group view with editable information.
+    - Inclusion of a meeting location or online hosting option.
+    - Linguistic clarity within the group creation form.
+    - Simplify terminology to reach a wider user base.
+    
 [Full phase 3 report](evaluation/)
