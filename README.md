@@ -72,7 +72,7 @@ Focus Group (n=5)
 * Participants were provided a prototype and requested to complete two tasks.
 * Tasks involved creating and requesting to join a group.
     - Each task had several criteria requested to be met (experience level, group size, age limit, etc.).
-* **80%** of participants completed all their assigned tasks while meeting full criteria.
+* **80%** of participants completed all their assigned tasks **while meeting full criteria**.
 * **100%** of participants completed their tasks without requiring backtracking.
 * Users reported overall ease of navigation.
     - **Clean and simplistic** layout aided with task completion.
