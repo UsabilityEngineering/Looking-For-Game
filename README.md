@@ -54,15 +54,14 @@ Focus Group (n=5)
 
 **Executive Summary**
 
-* Used data gathered in research to develop a wireframe of the project
-* Show the general functionality and page layout of the website, with models for every relevant page and how they link together
-* Wireframes were created based off both the generated personas and scenarios, as well as data acquired from the survey and focus group
-
-* Created a system that is simple enough for a new user to navigate, as well as more customizability options for more experienced players to find more tailored experiences
-* Addressed most of the most critical concerns brought up by the focus group (scheduling, beginner friendliness, etc.)
-
-* Created a hub where a user can view all of their existing games, as well as manage each individual group
-* Formulated a page to set individual group settings to match the focus group's requirements
+* Used data gathered in research to develop a wireframe of the project.
+    - Show the general functionality and page layout of the website, with models for every relevant page and how they link together.
+    - Wireframes were created based off both the generated **personas and scenarios**, as well as data acquired from the **survey** and **focus group**.
+* Addressed most of the most critical concerns brought up by the focus group (scheduling, beginner friendliness, etc.).
+* Wireframe Creation
+    - * Created a system that is simple enough for a new user to navigate, as well as more customizability options for more experienced players to find more tailored experiences.
+    -Created a hub where a user can view all of their existing games, as well as manage each individual group.
+    -Formulated a page to set individual group settings to match the focus group's requirements.
 
 [Full phase 2 report](design/)
 
@@ -80,11 +79,11 @@ Focus Group (n=5)
     - Users with no previous group finding experience felt **comfortable** progressing through tasks.
     - **Descriptive** navigation bar assisted with exploration.
 * The home page containing the "available groups" list was the most-liked feature.
-    - Users believe the feature is straightforward and accessible.
+    - Users believe the feature is **straightforward and accessible**.
 * The most requested new features:
     - More detailed and personalized group view with editable information.
     - Inclusion of a meeting location or online hosting option.
-    - Linguistic clarity within the group creation form.
+    - **Linguistic clarity** within the group creation form.
     - Simplify terminology to reach a wider user base.
     
 [Full phase 3 report](evaluation/)
