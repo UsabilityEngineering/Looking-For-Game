@@ -1,6 +1,6 @@
 # Usability Evaluation
 
-## Formative Summary
+## Summary
 
 Participants were asked to complete several tasks relating to group creation and group finding while the interface was being evaluated.
 
@@ -24,6 +24,7 @@ Participants were asked to locate and join a game which met several criteria, in
 * Beginner experience level
 * <=4 players in group
 * Correct campaign
+* Request to join a group
 
 ## Task 2
 
@@ -34,6 +35,7 @@ Participants were asked to assume the role of a host (game master) and create a 
 * 3-5 players in group
 * Correct age range (18+)
 * Correct campaign
+* Create and post a group
 
 ## Approach
 
@@ -41,7 +43,26 @@ Our formative assessment approach allows for feedback and design reiteration, wi
 
 ## Data Interpretation
 
-Data goes here...
+
+Participants with previous table-top roleplaying game (TTRPG) experience reported Dungeons and Dragons as their primary game. 60% reported they had previously used social media or chat apps to coordinate their groups. No participants were particularly satisfied with their previous experiences.
+
+Task 1:
+
+Participants were able to successfully complete the overarching goal of requesting to join a group, however not all were able to fine-tune their groups to the requested criteria.
+* 80% of participants were able to both join groups with the correct experience level and group size. 
+
+* The average user rated the difficulty level as 4.4 using a 1-5 Likert Scale, with 5 being very easy. User provided justification includes the straightforwardness, organization, and high detail in the group finding page.
+
+Task 2:
+
+Participants were able to successfully complete the overarching goal of creating a group with provided criteria. 
+
+* 100% of participants correctly set the age limit, group size, and skill level.
+* The average user rated the difficulty level as 4.6 using a 1-5 Likert Scale, with 5 being very easy. User provided justification includes clear labeling, visual focus, and linguistic clarity within the group creation form.
+
+
+On the profile page, participants requested a more detailed group view, with editable information. Some other notable features requested include meeting locations, online hosting, and more advanced search criteria. 
+
 
 One area for future improvement is with **linguistic clarity**, where several participants with a “beginner” level of experience reported uncertainty with some common gaming terms (specifically “campaign” and “game master”).
 
