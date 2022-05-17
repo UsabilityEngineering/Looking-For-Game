@@ -2,6 +2,11 @@
 
 ## Formative Summary
 
+Participants were asked to complete several tasks relating to group creation and group finding while the interface was being evaluated.
+
+Through heuristic evaluation, it was determined that the interface had aesthetic integrity, simplicity, and predictability.  As the tasks were being performed, users reported an overall ease of navigation. Quickness and simplicity of group creation was the most common remark. The consistent format in which the group data is displayed aided in participants with overall task precision. One area for future improvement is with linguistic clarity, where several participants with a “beginner” level of experience reported uncertainty with some common gaming terms (specifically “campaign” and “game master”).
+
+During cognitive walkthroughs, participants were tasked with responsibilities of both a host (game master) and player. 100% of participants completed all of their respective tasks without backtracking. The simplicity was recognized by several participants who liked the direct linkage between the landing page and “create group” form. It was noted that a few participants struggled with finding and joining a group simply because the scroll feature was not prominently displayed. Adding signifiers to notify users of content below-the-fold would reduce this difficulty and increase efficiency. Since all participants completed tasks with no backtracking, future tasks may be created to fully examine error tolerance.
 
 ## Participant Study Protocol
 
@@ -13,19 +18,30 @@
 
 ## Task 1
 
+Participants were asked to locate and join a game which met several criteria, including a specific campaign, correct experience level, and correct group size. The purpose of this task was to study learnability, effectiveness, and efficiency.
 
+### Requirements:
+* Beginner experience level
+* <=4 players in group
+* Correct campaign
 
 ## Task 2
 
+Participants were asked to assume the role of a host (game master) and create a group with specified criteria. Once the correct campaign, age limit, and experience level were entered, the participant would post the group to the public board. The purpose of this task was to study effectiveness, safety, and satisfaction. 
 
+### Requirements:
+* Experienced players
+* 3-5 players in group
+* Correct age range (18+)
+* Correct campaign
 
 ## Approach
 
-
+Our formative assessment approach allows for feedback and design reiteration, with participants encouraged to think-aloud and describe any difficulties as soon as they occur. If a participant encountered an error or confusion, the moderator would refocus the participant without guiding them to a desired result. 
 
 ## Data Interpretation
 
-
+Data goes here...
 
 ## Data Collection
 
