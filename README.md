@@ -25,10 +25,10 @@ Survey (n=11)
 * All Game Master responders consider **group creation and consistency** as **high difficulty** tasks (Likert scale 4/5 or higher)
 * All Game Master responders are willing to dedicate 3 or more hours per week creating campaigns
 * The most important customization options request by Game Masters are:
-   * Experience Level
-   * Age of Participants
-   * Meeting Frequency
-   * Campaign Preferences
+   * **Experience Level**
+   * **Age of Participants**
+   * **Meeting Frequency**
+   * **Campaign Preferences**
 * **62.5%** of players are willing to spend 3 to 4 hours per session
 * **100%** of players request features for reporting and blocking users
 * **55.6%** of responders would value a service for player matching
@@ -41,10 +41,10 @@ Survey (n=11)
 Focus Group (n=5)
 * **100%** of the group was very receptive to using our product as a possible Tabletop RPG campaign-finding service.
 * Due to previous experiences, they brought up several features that were **must-haves** when creating/joining a group:
-   * Availability (by **far** the most requested feature)
-   * Beginner Friendliness
-   * Game system and blurb that gives an idea of the world the campaign is taking place in
-   * Trigger Warnings
+   * **Availability (by **far** the most requested feature)**
+   * **Beginner Friendliness**
+   * **Game system and blurb that gives an idea of the world the campaign is taking place in**
+   * **Trigger Warnings**
 * In the focus group it was unanimously agreed that a player reporting system was vital to having an enjoyable experience,
   so shifting our focus towards player safety/security is a must going forward.
 
